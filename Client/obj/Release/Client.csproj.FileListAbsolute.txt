@@ -1,0 +1,12 @@
+C:\Users\ACER\Desktop\SocketProgrammingUDP-main\Client\bin\Release\Client.exe.config
+C:\Users\ACER\Desktop\SocketProgrammingUDP-main\Client\bin\Release\Client.exe
+C:\Users\ACER\Desktop\SocketProgrammingUDP-main\Client\bin\Release\Client.pdb
+C:\Users\ACER\Desktop\SocketProgrammingUDP-main\Client\obj\Release\Client.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\SocketProgrammingUDP-main\Client\obj\Release\Client.clientForm.resources
+C:\Users\ACER\Desktop\SocketProgrammingUDP-main\Client\obj\Release\Client.ManyObj.resources
+C:\Users\ACER\Desktop\SocketProgrammingUDP-main\Client\obj\Release\Client.OneObj.resources
+C:\Users\ACER\Desktop\SocketProgrammingUDP-main\Client\obj\Release\Client.Properties.Resources.resources
+C:\Users\ACER\Desktop\SocketProgrammingUDP-main\Client\obj\Release\Client.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\SocketProgrammingUDP-main\Client\obj\Release\Client.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\SocketProgrammingUDP-main\Client\obj\Release\Client.exe
+C:\Users\ACER\Desktop\SocketProgrammingUDP-main\Client\obj\Release\Client.pdb
