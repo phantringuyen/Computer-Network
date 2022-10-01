@@ -1,0 +1,131 @@
+C:\Users\admin\source\repos\SocketProgramming\Server\bin\Debug\Server.exe.config
+C:\Users\admin\source\repos\SocketProgramming\Server\bin\Debug\Server.exe
+C:\Users\admin\source\repos\SocketProgramming\Server\bin\Debug\Server.pdb
+C:\Users\admin\source\repos\SocketProgramming\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\SocketProgramming\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\admin\source\repos\SocketProgramming\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\SocketProgramming\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\SocketProgramming\Server\obj\Debug\Server.exe
+C:\Users\admin\source\repos\SocketProgramming\Server\obj\Debug\Server.pdb
+C:\Users\admin\source\repos\SocketProgramming\Server\obj\Debug\Server.serverForm.resources
+C:\Users\admin\Desktop\SocketProgrammingUDP\Server\bin\Debug\Server.exe.config
+C:\Users\admin\Desktop\SocketProgrammingUDP\Server\bin\Debug\Server.exe
+C:\Users\admin\Desktop\SocketProgrammingUDP\Server\bin\Debug\Server.pdb
+C:\Users\admin\Desktop\SocketProgrammingUDP\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\SocketProgrammingUDP\Server\obj\Debug\Server.serverForm.resources
+C:\Users\admin\Desktop\SocketProgrammingUDP\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\admin\Desktop\SocketProgrammingUDP\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\SocketProgrammingUDP\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\SocketProgrammingUDP\Server\obj\Debug\Server.exe
+C:\Users\admin\Desktop\SocketProgrammingUDP\Server\obj\Debug\Server.pdb
+C:\Users\ACER\Desktop\SocketProgrammingUDP-main\Server\bin\Debug\Server.exe.config
+C:\Users\ACER\Desktop\SocketProgrammingUDP-main\Server\bin\Debug\Server.exe
+C:\Users\ACER\Desktop\SocketProgrammingUDP-main\Server\bin\Debug\Server.pdb
+C:\Users\ACER\Desktop\SocketProgrammingUDP-main\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\SocketProgrammingUDP-main\Server\obj\Debug\Server.serverForm.resources
+C:\Users\ACER\Desktop\SocketProgrammingUDP-main\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\ACER\Desktop\SocketProgrammingUDP-main\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\SocketProgrammingUDP-main\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\SocketProgrammingUDP-main\Server\obj\Debug\Server.exe
+C:\Users\ACER\Desktop\SocketProgrammingUDP-main\Server\obj\Debug\Server.pdb
+C:\Users\Administrator\Desktop\Đồ án sk - Copy\Server\bin\Debug\Server.exe.config
+C:\Users\Administrator\Desktop\Đồ án sk - Copy\Server\bin\Debug\Server.exe
+C:\Users\Administrator\Desktop\Đồ án sk - Copy\Server\bin\Debug\Server.pdb
+C:\Users\Administrator\Desktop\Đồ án sk - Copy\Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Đồ án sk - Copy\Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\Đồ án sk - Copy\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Đồ án sk - Copy\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Đồ án sk - Copy\Server\obj\Debug\Server.serverForm.resources
+C:\Users\Administrator\Desktop\Đồ án sk - Copy\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Đồ án sk - Copy\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Đồ án sk - Copy\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Đồ án sk - Copy\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Đồ án sk - Copy\Server\obj\Debug\Server.exe
+C:\Users\Administrator\Desktop\Đồ án sk - Copy\Server\obj\Debug\Server.pdb
+C:\Users\Administrator\Desktop\Đồ án sk - Copy\Server\bin\Debug\DB\Infor.json
+C:\Users\Administrator\Desktop\Đồ án sk - Copy\Server\bin\Debug\DB\Picture.jpg
+C:\Users\ACER\Desktop\temp\Server\bin\Debug\DB\Infor.json
+C:\Users\ACER\Desktop\temp\Server\bin\Debug\DB\Picture.jpg
+C:\Users\ACER\Desktop\temp\Server\bin\Debug\Server.exe.config
+C:\Users\ACER\Desktop\temp\Server\bin\Debug\Server.exe
+C:\Users\ACER\Desktop\temp\Server\bin\Debug\Server.pdb
+C:\Users\ACER\Desktop\temp\Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ACER\Desktop\temp\Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ACER\Desktop\temp\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\temp\Server\obj\Debug\Server.serverForm.resources
+C:\Users\ACER\Desktop\temp\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\ACER\Desktop\temp\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\temp\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\temp\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\ACER\Desktop\temp\Server\obj\Debug\Server.exe
+C:\Users\ACER\Desktop\temp\Server\obj\Debug\Server.pdb
+C:\Users\Administrator\Desktop\temp\Server\bin\Debug\DB\Infor.json
+C:\Users\Administrator\Desktop\temp\Server\bin\Debug\Server.exe.config
+C:\Users\Administrator\Desktop\temp\Server\bin\Debug\Server.exe
+C:\Users\Administrator\Desktop\temp\Server\bin\Debug\Server.pdb
+C:\Users\Administrator\Desktop\temp\Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\temp\Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\temp\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\temp\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\temp\Server\obj\Debug\Server.serverForm.resources
+C:\Users\Administrator\Desktop\temp\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Administrator\Desktop\temp\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\temp\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\temp\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Administrator\Desktop\temp\Server\obj\Debug\Server.exe
+C:\Users\Administrator\Desktop\temp\Server\obj\Debug\Server.pdb
+C:\Users\ACER\Desktop\temp\temp\Server\bin\Debug\DB\Infor.json
+C:\Users\ACER\Desktop\temp\temp\Server\bin\Debug\Server.exe.config
+C:\Users\ACER\Desktop\temp\temp\Server\bin\Debug\Server.exe
+C:\Users\ACER\Desktop\temp\temp\Server\bin\Debug\Server.pdb
+C:\Users\ACER\Desktop\temp\temp\Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ACER\Desktop\temp\temp\Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ACER\Desktop\temp\temp\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\temp\temp\Server\obj\Debug\Server.serverForm.resources
+C:\Users\ACER\Desktop\temp\temp\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\ACER\Desktop\temp\temp\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\temp\temp\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\temp\temp\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\ACER\Desktop\temp\temp\Server\obj\Debug\Server.exe
+C:\Users\ACER\Desktop\temp\temp\Server\obj\Debug\Server.pdb
+C:\Users\phant\OneDrive - VNU-HCMUS\Năm 2\Mạng Máy Tính\Đồ Án 1\temp\temp\Server\bin\Debug\DB\Infor.json
+C:\Users\phant\OneDrive - VNU-HCMUS\Năm 2\Mạng Máy Tính\Đồ Án 1\temp\temp\Server\bin\Debug\Server.exe.config
+C:\Users\phant\OneDrive - VNU-HCMUS\Năm 2\Mạng Máy Tính\Đồ Án 1\temp\temp\Server\bin\Debug\Server.exe
+C:\Users\phant\OneDrive - VNU-HCMUS\Năm 2\Mạng Máy Tính\Đồ Án 1\temp\temp\Server\bin\Debug\Server.pdb
+C:\Users\phant\OneDrive - VNU-HCMUS\Năm 2\Mạng Máy Tính\Đồ Án 1\temp\temp\Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\phant\OneDrive - VNU-HCMUS\Năm 2\Mạng Máy Tính\Đồ Án 1\temp\temp\Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\phant\OneDrive - VNU-HCMUS\Năm 2\Mạng Máy Tính\Đồ Án 1\temp\temp\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\phant\OneDrive - VNU-HCMUS\Năm 2\Mạng Máy Tính\Đồ Án 1\temp\temp\Server\obj\Debug\Server.serverForm.resources
+C:\Users\phant\OneDrive - VNU-HCMUS\Năm 2\Mạng Máy Tính\Đồ Án 1\temp\temp\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\phant\OneDrive - VNU-HCMUS\Năm 2\Mạng Máy Tính\Đồ Án 1\temp\temp\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\phant\OneDrive - VNU-HCMUS\Năm 2\Mạng Máy Tính\Đồ Án 1\temp\temp\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\phant\OneDrive - VNU-HCMUS\Năm 2\Mạng Máy Tính\Đồ Án 1\temp\temp\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\phant\OneDrive - VNU-HCMUS\Năm 2\Mạng Máy Tính\Đồ Án 1\temp\temp\Server\obj\Debug\Server.exe
+C:\Users\phant\OneDrive - VNU-HCMUS\Năm 2\Mạng Máy Tính\Đồ Án 1\temp\temp\Server\obj\Debug\Server.pdb
+C:\Users\phant\OneDrive - VNU-HCMUS\Năm 2\Mạng Máy Tính\Đồ Án 1\Do_an_newest\Server\bin\Debug\DB\Infor.json
+C:\Users\phant\OneDrive - VNU-HCMUS\Năm 2\Mạng Máy Tính\Đồ Án 1\Do_an_newest\Server\bin\Debug\Server.exe.config
+C:\Users\phant\OneDrive - VNU-HCMUS\Năm 2\Mạng Máy Tính\Đồ Án 1\Do_an_newest\Server\bin\Debug\Server.exe
+C:\Users\phant\OneDrive - VNU-HCMUS\Năm 2\Mạng Máy Tính\Đồ Án 1\Do_an_newest\Server\bin\Debug\Server.pdb
+C:\Users\phant\OneDrive - VNU-HCMUS\Năm 2\Mạng Máy Tính\Đồ Án 1\Do_an_newest\Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\phant\OneDrive - VNU-HCMUS\Năm 2\Mạng Máy Tính\Đồ Án 1\Do_an_newest\Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\phant\OneDrive - VNU-HCMUS\Năm 2\Mạng Máy Tính\Đồ Án 1\Do_an_newest\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\phant\OneDrive - VNU-HCMUS\Năm 2\Mạng Máy Tính\Đồ Án 1\Do_an_newest\Server\obj\Debug\Server.serverForm.resources
+C:\Users\phant\OneDrive - VNU-HCMUS\Năm 2\Mạng Máy Tính\Đồ Án 1\Do_an_newest\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\phant\OneDrive - VNU-HCMUS\Năm 2\Mạng Máy Tính\Đồ Án 1\Do_an_newest\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\phant\OneDrive - VNU-HCMUS\Năm 2\Mạng Máy Tính\Đồ Án 1\Do_an_newest\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\phant\OneDrive - VNU-HCMUS\Năm 2\Mạng Máy Tính\Đồ Án 1\Do_an_newest\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\phant\OneDrive - VNU-HCMUS\Năm 2\Mạng Máy Tính\Đồ Án 1\Do_an_newest\Server\obj\Debug\Server.exe
+C:\Users\phant\OneDrive - VNU-HCMUS\Năm 2\Mạng Máy Tính\Đồ Án 1\Do_an_newest\Server\obj\Debug\Server.pdb
+C:\Users\phant\OneDrive - VNU-HCMUS\Năm 2\Mạng Máy Tính\Đồ Án 1\Đồ_Án_Complete\Server\bin\Debug\DB\Infor.json
+C:\Users\phant\OneDrive - VNU-HCMUS\Năm 2\Mạng Máy Tính\Đồ Án 1\Đồ_Án_Complete\Server\bin\Debug\Server.exe.config
+C:\Users\phant\OneDrive - VNU-HCMUS\Năm 2\Mạng Máy Tính\Đồ Án 1\Đồ_Án_Complete\Server\bin\Debug\Server.exe
+C:\Users\phant\OneDrive - VNU-HCMUS\Năm 2\Mạng Máy Tính\Đồ Án 1\Đồ_Án_Complete\Server\bin\Debug\Server.pdb
+C:\Users\phant\OneDrive - VNU-HCMUS\Năm 2\Mạng Máy Tính\Đồ Án 1\Đồ_Án_Complete\Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\phant\OneDrive - VNU-HCMUS\Năm 2\Mạng Máy Tính\Đồ Án 1\Đồ_Án_Complete\Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\phant\OneDrive - VNU-HCMUS\Năm 2\Mạng Máy Tính\Đồ Án 1\Đồ_Án_Complete\Server\obj\Debug\Server.serverForm.resources
+C:\Users\phant\OneDrive - VNU-HCMUS\Năm 2\Mạng Máy Tính\Đồ Án 1\Đồ_Án_Complete\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\phant\OneDrive - VNU-HCMUS\Năm 2\Mạng Máy Tính\Đồ Án 1\Đồ_Án_Complete\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\phant\OneDrive - VNU-HCMUS\Năm 2\Mạng Máy Tính\Đồ Án 1\Đồ_Án_Complete\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\phant\OneDrive - VNU-HCMUS\Năm 2\Mạng Máy Tính\Đồ Án 1\Đồ_Án_Complete\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\phant\OneDrive - VNU-HCMUS\Năm 2\Mạng Máy Tính\Đồ Án 1\Đồ_Án_Complete\Server\obj\Debug\Server.exe
+C:\Users\phant\OneDrive - VNU-HCMUS\Năm 2\Mạng Máy Tính\Đồ Án 1\Đồ_Án_Complete\Server\obj\Debug\Server.pdb
