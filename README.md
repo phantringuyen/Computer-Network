@@ -1,4 +1,4 @@
-# Computer-Network
+# Computer-Network-Project_1
 <Favourite Places>
 Write an application that allows users to manage favorite places using Socket, UDP protocol. 
 
