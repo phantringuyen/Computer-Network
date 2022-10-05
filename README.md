@@ -1,5 +1,5 @@
 ### Computer Network
-# Favourite Places
+# Famous Sites
 - In this project, we will create an application that allows users to manage favorite places using **Socket** and **UDP protocol**. 
 
 - Information for a place includes: *code*, *place name*, *geographical location (latitude, longitude)*, *description* and *pictures*.
